@@ -1,2 +1,7 @@
 artsasdasd
+<<<<<<< HEAD
 add more from local master
+=======
+-add more on git hub
+-add more2 on git hub
+>>>>>>> 73cd7cdbc043f1266db70aa45438a264611f8536
